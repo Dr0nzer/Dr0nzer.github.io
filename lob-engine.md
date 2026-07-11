@@ -5,7 +5,7 @@ A low-latency, high-throughput Limit Order Book (LOB) matching engine built enti
 
 **Peak Throughput:** 14.2 Million orders/second 
 **Language:** C++
-
+[🔗 View Full Source Code on GitHub](https://github.com/Dr0nzer/limit-order-book)
 ---
 
 ## System Architecture & Data Structures
