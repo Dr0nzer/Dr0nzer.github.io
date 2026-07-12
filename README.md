@@ -7,7 +7,7 @@ When I am not optimizing systems, I am actively focused on competitive programmi
 * 📄 **[Resume](./Priyanshu_Sharma_Resume.pdf)** * 💼 **[LinkedIn](https://www.linkedin.com/in/priyanshu-sharma-559b102b4/)**
 * 🐙 **[GitHub](https://github.com/Dr0nzer)**
 
-### Competitive Programming (700+ DSA Solved)
+### Competitive Programming (900+ DSA Questions Solved)
 * 🏆 **[Codeforces](https://codeforces.com/profile/Kai05)**
 * 💻 **[CodeChef](https://www.codechef.com/users/kaixd)**
 * 🚀 **[LeetCode](https://leetcode.com/u/Kaizr/)**
